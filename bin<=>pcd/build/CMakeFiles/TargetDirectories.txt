@@ -1,0 +1,3 @@
+/home/oem/Downloads/kitti-velodyne-viewer-master/build/CMakeFiles/edit_cache.dir
+/home/oem/Downloads/kitti-velodyne-viewer-master/build/CMakeFiles/rebuild_cache.dir
+/home/oem/Downloads/kitti-velodyne-viewer-master/build/CMakeFiles/binpcd.dir
