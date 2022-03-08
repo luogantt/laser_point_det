@@ -277,4 +277,10 @@ points=pointcloud
 voxels, coors, num_points_per_voxel=points_to_voxel(points, voxel_size,coors_range)
 
 
+print('voxels=',voxels)
+
+
+
+
+
 print(voxels)
