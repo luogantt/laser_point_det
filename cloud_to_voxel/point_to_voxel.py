@@ -279,8 +279,22 @@ voxels, coors, num_points_per_voxel=points_to_voxel(points, voxel_size,coors_ran
 
 print('voxels=',voxels)
 
-
-
-
+import numpy
+numpy.savetxt("voxel1.csv", voxels[0], delimiter=',')
 
 print(voxels)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
